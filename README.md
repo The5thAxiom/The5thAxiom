@@ -15,7 +15,7 @@ HTML, CSS, Javascript and PHP a (still WIP) simple e-commerce site made like the
 A web scraper to get information about our faculty at VIT Chennai. Made for [Adrenaline/FOSS Day](https://lugvitc.github.io/#/events#adrenaline).
 
 ## [🐧 Linux Club VITC Website](https://lugvitc.github.io/)
-A React.js site to showcase VIT Chennai's Linux club, made by me and [@3V3YONE](https://github.com/3V3RYONE).
+A React.js site to showcase [VIT Chennai's Linux Club](https://github.com/lugvitc), made by me and [@3V3YONE](https://github.com/3V3RYONE).
 
 # 🧰 Skills
 ## General Programming: `Python`, `C/C++`, `Java` and my ❤️, `Scala`

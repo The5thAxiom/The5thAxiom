@@ -1,6 +1,5 @@
-# Hello 👋
-### This is Samridh and welcome to my github page
-I like to code, am a language nerd and like to cook!
+# Hello 👋, I am Samridh and welcome to my github page
+I like to code, am a language nerd and ❤️ to cook!
 
 [📷](https://www.instagram.com/samridhpaatni/)
 
@@ -17,3 +16,8 @@ A web scraper to get information about our faculty at VIT Chennai. Made for [Adr
 
 ## [🐧 Linux Club VITC Website](https://lugvitc.github.io/)
 A React.js site to showcase VIT Chennai's Linux club, made by me and [@3V3YONE](https://github.com/3V3RYONE).
+
+# 🧰 Skills
+General Programming: `Python`, `C/C++`, `Java` and my ❤️, `Scala`
+Web programming: `Javascript`, `React.js`, `HTML` and `CSS`
+General tech: `vim`, `git`, `LaTeX`, `Markdown` and `bash`

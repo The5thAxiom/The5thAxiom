@@ -3,7 +3,7 @@ I like to code, am a language nerd and ❤️ to cook!
 
 UG student at [VIT, Chennai](https://chennai.vit.ac.in/) pursuing a BTech in Computer Science and Engineering | Member of [Linux Club, VIT Chennai](https://github.com/lugvitc)
 
-[📷](https://www.instagram.com/samridhpaatni/)
+[📷 Instagram](https://www.instagram.com/samridhpaatni/) | [🤝LinkedIn](https://www.linkedin.com/in/samridh-anand-paatni-57a045215/)
 
 # 💼 Projects
 

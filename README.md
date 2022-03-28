@@ -5,7 +5,7 @@ I like to code, am a language nerd and ❤️ to cook!
 
 UG student at [VIT, Chennai](https://chennai.vit.ac.in/) pursuing a BTech in Computer Science and Engineering | Member of [Linux Club, VIT Chennai](https://github.com/lugvitc)
 
-[📷 Instagram](https://www.instagram.com/samridhpaatni/) | [🤝LinkedIn](https://www.linkedin.com/in/samridh-anand-paatni-57a045215/) | [📬 Email](mailto:samridh.anand.paatni@gmail.com)
+### [📷 Instagram](https://www.instagram.com/samridhpaatni/) | [🤝LinkedIn](https://www.linkedin.com/in/samridh-anand-paatni-57a045215/) | [📬 Email](mailto:samridh.anand.paatni@gmail.com)
 
 # 💼 Projects
 
@@ -22,6 +22,12 @@ A web scraper to get information about our faculty at VIT Chennai. Made for [Adr
 A React.js site to showcase [VIT Chennai's Linux Club](https://github.com/lugvitc), made by me and [@3V3YONE](https://github.com/3V3RYONE).
 
 # 🧰 Skills
-## General Programming: `Python`, `C/C++`, `Java` and my ❤️, `Scala`
-## Web programming: `Javascript`, `React.js`, `HTML` and `CSS`
-## General tech: `vim`, `git`, `LaTeX`, `Markdown` and `bash`
+
+## 👨‍💻 General Programming
+### `Python`, `C/C++`, `Java` and my ❤️, `Scala`
+
+## 🌐 Web Programming
+### `Javascript`, `React.js`, `HTML` and `CSS`
+
+## 🛠️ General Tech
+### `vim`, `git`, `LaTeX`, `Markdown` and `bash`

@@ -5,7 +5,7 @@ I like to code, am a language nerd and ❤️ to cook!
 
 UG student at [VIT, Chennai](https://chennai.vit.ac.in/) pursuing a BTech in Computer Science and Engineering | Member of [Linux Club, VIT Chennai](https://github.com/lugvitc)
 
-[📷 Instagram](https://www.instagram.com/samridhpaatni/) | [🤝LinkedIn](https://www.linkedin.com/in/samridh-anand-paatni-57a045215/)
+[📷 Instagram](https://www.instagram.com/samridhpaatni/) | [🤝LinkedIn](https://www.linkedin.com/in/samridh-anand-paatni-57a045215/) | [📬 Email](mailto:samridh.anand.paatni@gmail.com)
 
 # 💼 Projects
 
@@ -25,6 +25,3 @@ A React.js site to showcase [VIT Chennai's Linux Club](https://github.com/lugvit
 ## General Programming: `Python`, `C/C++`, `Java` and my ❤️, `Scala`
 ## Web programming: `Javascript`, `React.js`, `HTML` and `CSS`
 ## General tech: `vim`, `git`, `LaTeX`, `Markdown` and `bash`
-
-# [🤙 Contact Me]
-## Email: [`samridh.anand.paatni <at> gmail <dot> com`](mailto:samridh.anand.paatni@gmail.com)

@@ -5,7 +5,9 @@ I like to code, am a language nerd, play table tennis and ❤️ to cook!
 
 UG student at [VIT, Chennai](https://chennai.vit.ac.in/) pursuing a BTech in Computer Science and Engineering | Member of [Linux Club, VIT Chennai](https://github.com/lugvitc)
 
-### [📷 Instagram](https://www.instagram.com/samridhpaatni/) | [🤝LinkedIn](https://www.linkedin.com/in/samridh-anand-paatni-57a045215/) | [📬 Email](mailto:samridh.anand.paatni@gmail.com)
+### [🤝LinkedIn](https://www.linkedin.com/in/samridh-anand-paatni-57a045215/) |  [📷Instagram](https://www.instagram.com/samridhpaatni/)
+
+### 📬Email: `samridh<dot>anand<dot>paatni<at>gmail<dot>com`
 
 # 💼 Projects
 

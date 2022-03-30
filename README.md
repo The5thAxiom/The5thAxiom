@@ -26,7 +26,11 @@ HTML, CSS, Javascript and PHP a (still WIP) simple mock e-commerce site made lik
 # 🧰 Skills
 
 ## 👨‍💻 General Programming
-### `Python`, `C/C++`, `Java` and my ❤️, `Scala`
+### Proficient in
+#### `Python` && `C/C++`
+
+### Familiar with
+### `Java` && `❤️Scala❤️`
 
 ## 🌐 Web Programming
 ### `Javascript`, `React.js`, `HTML` and `CSS`

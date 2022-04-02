@@ -17,7 +17,7 @@ A React.js site to showcase [VIT Chennai's Linux Club](https://github.com/lugvit
 ## [🕸️ VITC Professor Web Scraper](https://github.com/The5thAxiom/vitc-professor-scraper)
 A web scraper to get information about our faculty at VIT Chennai. Made for [Adrenaline/FOSS Day](https://lugvitc.github.io/#/events#adrenaline).
 
-## [🥣 Samy's Cookbook](https://github.com/The5thAxiom/Samys-Cookbook)
+## [🥣 My Cookbook](https://github.com/The5thAxiom/cookbook)
 Featuring a React.js frontend and flask backend, this is a (still WIP) website for keeping track of the stuff I like to cook.
 
 ## [🛒 Samazon](https://github.com/The5thAxiom/samazon)

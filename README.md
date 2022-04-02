@@ -1,5 +1,5 @@
 # Hello 👋! I am Samridh and welcome to my github page
-I like to code, am a language nerd, play table tennis and ❤️ to cook!
+I like to code, learning about languages, play table tennis and ❤️ to cook!
 
 <!-- 🇮🇳 | 🏳️‍🌈 -->
 

@@ -18,7 +18,7 @@ A React.js site to showcase [VIT Chennai's Linux Club](https://github.com/lugvit
 A web scraper to get information about our faculty at VIT Chennai. Made for [Adrenaline/FOSS Day](https://lugvitc.github.io/#/events#adrenaline).
 
 ## [🥣 My Cookbook](https://github.com/The5thAxiom/cookbook)
-Featuring a React.js frontend and flask backend, this is a (still WIP) website for keeping track of the stuff I like to cook.
+A typescript React frontend with a flask REST api, a WIP site for keeping track of the stuff I like to cook!
 
 ## [🛒 Samazon](https://github.com/The5thAxiom/samazon)
 HTML, CSS, Javascript and PHP a (still WIP) simple mock e-commerce site made like they used to in the good old days. Samazon, we find what you want and give it to you!
@@ -30,10 +30,10 @@ HTML, CSS, Javascript and PHP a (still WIP) simple mock e-commerce site made lik
 #### `Python` && `C/C++`
 
 ### Familiar with
-### `Java` && `❤️Scala❤️`
+#### `Java` && `❤️Scala❤️`
 
 ## 🌐 Web Programming
-### `Javascript`, `React.js`, `HTML` and `CSS`
+#### `Javascript`, `React.js`, `HTML` and `CSS`
 
 ## 🛠️ General Tech
-### `vim`, `git`, `LaTeX`, `Markdown` and `bash`
+#### `vim`, `git`, `LaTeX`, `Markdown` and `bash`

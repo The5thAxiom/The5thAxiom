@@ -19,6 +19,7 @@ A web scraper to get information about our faculty at VIT Chennai. Made for [Adr
 
 ## [🥣 My Cookbook](https://github.com/The5thAxiom/cookbook)
 A typescript React frontend with a flask REST api, a WIP site for keeping track of the stuff I like to cook!
+A demo deployment is up on Heroku, check it out [here!](https://cookbook-demo-the5thaxiom.herokuapp.com/)
 
 ## [🛒 Samazon](https://github.com/The5thAxiom/samazon)
 HTML, CSS, Javascript and PHP a (still WIP) simple mock e-commerce site made like they used to in the good old days. Samazon, we find what you want and give it to you!

@@ -23,7 +23,7 @@ A demo deployment is up on Heroku, check it out [here!](https://cookbook-demo-th
 
 ## [🛒 Samazon](https://github.com/The5thAxiom/samazon)
 HTML, CSS, Javascript and PHP a (still WIP) simple mock e-commerce site made like they used to in the good old days. Samazon, we find what you want and give it to you!
-
+A demo deployment is up on Heroku, check it out [here!](https://samazon-demo-the5thaxiom.herokuapp.com/)
 # 🧰 Skills
 
 ## 👨‍💻 General Programming

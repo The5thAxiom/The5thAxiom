@@ -1,4 +1,4 @@
-# Hello 👋! I am Samridh and welcome to my github page
+# Hello 👋! I am [Samridh](https://www.samridh.live) and welcome to my github page
 I like to code, learning about languages, play table tennis and ❤️ to cook!
 
 <!-- 🇮🇳 | 🏳️‍🌈 -->

@@ -27,6 +27,14 @@ HTML, CSS, Javascript and PHP a (still WIP) simple mock e-commerce site made lik
 ### [:octocat:](https://github.com/The5thAxiom/vitc-professor-scraper)
 A web scraper to get information about our faculty at VIT Chennai. Made for [Adrenaline/FOSS Day](https://lugvitc.github.io/#/events#adrenaline).
 
+## [📋 My Portfolio ](https://www.samridh.live)
+### [:octocat:](https://github.com/The5thAxiom/portfolio)
+A WIP portfolio to show off myself in style (when it is done ofc)
+
+## [🎮 JS Games](https://jsgames.samridh.live)
+### [:octocat:](https://github.com/The5thAxiom/jsGames)
+Simple games made in js for fun
+
 # 🧰 Skills
 
 ## 👨‍💻 General Programming
